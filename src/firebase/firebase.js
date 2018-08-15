@@ -1,6 +1,6 @@
-import firebase from 'firebase/app';
-import 'firebase/auth';
-import 'firebase/database';
+import firebase from "firebase/app";
+import "firebase/auth";
+import "firebase/database";
 
 const prodConfig = {
   apiKey: "AIzaSyByhz3Pu_Ff95417sOOER_Roa2gXaVXP3w",
@@ -20,9 +20,7 @@ const devConfig = {
   messagingSenderId: "286504951123"
 };
 
-const config = process.env.NODE_ENV === 'production'
-  ? prodConfig
-  : devConfig;
+const config = process.env.NODE_ENV === "production" ? prodConfig : devConfig;
 
 if (!firebase.apps.length) {
   firebase.initializeApp(config);
@@ -31,7 +29,4 @@ if (!firebase.apps.length) {
 const db = firebase.database();
 const auth = firebase.auth();
 
-export {
-  db,
-  auth,
-};
+export { db, auth };
