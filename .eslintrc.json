@@ -1,7 +1,6 @@
 {
   "extends": ["react-app", "plugin:prettier/recommended"],
   "rules": {
-    "jsx-a11y/href-no-hash": ["off"],
     "curly": ["error", "all"],
     "jsx-a11y/href-no-hash": ["off"],
     "max-len": [
