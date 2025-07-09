@@ -1,17 +1,17 @@
-import { observable, action } from "mobx";
+import { makeAutoObservable } from "mobx";
 
 class UserStore {
-  @observable
   users = {};
 
   constructor(rootStore) {
     this.rootStore = rootStore;
+    makeAutoObservable(this);
   }
 
-  @action
-  setUsers = users => {
+  setUsers(users) {
     this.users = users;
-  };
+  }
 }
 
 export default UserStore;
+
