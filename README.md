@@ -32,16 +32,16 @@ Project based on Robin Wieruch's tutorial, updated to recent versions of React, 
 
 1. Clone the repo and enter the directory:
    
-   3 crases aqui
+   ```
    git clone <repo-url>
    cd react-mobx-firebase-authentication
-   3 crases aqui
+   ```
 
 2. Install dependencies:
    
-   3 crases aqui
+   ```
    npm install
-   3 crases aqui
+   ```
 
 3. Set up your Firebase credentials:
 
@@ -51,9 +51,9 @@ Project based on Robin Wieruch's tutorial, updated to recent versions of React, 
 
 4. Start the development server:
    
-   3 crases aqui
+   ```
    npm start
-   3 crases aqui
+   ```
 
 5. Open your browser and go to: http://localhost:3000
 
@@ -61,17 +61,17 @@ Project based on Robin Wieruch's tutorial, updated to recent versions of React, 
 
 To create a production build:
 
-3 crases aqui
+```
 npm run build
-3 crases aqui
+```
 
 ## Running Tests
 
 To run tests:
 
-3 crases aqui
+```
 npm test
-3 crases aqui
+```
 
 ## Notes
 
