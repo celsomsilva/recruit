@@ -2,11 +2,6 @@
 
 Project based on Robin Wieruch's tutorial, updated to recent versions of React, MobX, and Firebase.
 
-
-[![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
-
-* Found in [Taming the State in React](https://roadtoreact.com/course-details?courseId=TAMING_THE_STATE)
-* [Live](https://react-firebase-authentication.wieruch.com/)
 * [Tutorial](https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/)
 
 
