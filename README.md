@@ -1,3 +1,14 @@
+![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-6.x-FF9955?logo=mobx&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-11.x-FFCA28?logo=firebase&logoColor=black)
+![React Router](https://img.shields.io/badge/React%20Router%20DOM-7.x-ca4245?logo=reactrouter&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-5.x-007FFF?logo=mui&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-7.x-F9DC3E?logo=babel&logoColor=black)
+![Webpack](https://img.shields.io/badge/Webpack-5.x-8DD6F9?logo=webpack&logoColor=black)
+![License](https://img.shields.io/github/license/celsomsilva/recruit)
+
+
+
 # react-mobx-firebase-authentication
 
 Project based on Robin Wieruch's tutorial, updated to recent versions of React, MobX, and Firebase.
